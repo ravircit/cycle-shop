@@ -1,6 +1,7 @@
 Run main. 
 
 List of command-
+
 show_cycle_parts
 
 purchase_cycle x.y x.z(x-component no, y,z- parts no)
