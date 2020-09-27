@@ -1,0 +1,24 @@
+
+H
+java:S1481ƒ"*Remove this unused "price" local variable.(ú•â8Õ´¿ÜÃ.
+=
+java:S1659ƒ"Declare "p" on a separate line.(ú•â8Õ´¿ÜÃ.
+o	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨«Áùÿÿÿÿ8Õ´¿ÜÃ.
+]	java:S125"<This block of commented-out lines of code should be removed.(û±ÿœûÿÿÿÿ8ÄØ¶ÕÃ.
+j	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾şË”8°ŒóÙÃ.
+D
+java:S1481ƒ"&Remove this unused "p" local variable.(ú•â8Õ´¿ÜÃ.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ìÉŞıÿÿÿÿ8ÄØ¶ÕÃ.
+y
+java:S2259@"\"NullPointerException" will be thrown when invoking method "CheckPriceOfAllSelectedParts()".(‹ì ¡8Æ¥ÚÃ.
+r
+java:S2259<"P"NullPointerException" will be thrown when invoking method "ChangePartsPrice()".(Ì’˜¯ÿÿÿÿÿ8™ª’ÜÃ.
+e
+java:S2259v"CA "NullPointerException" could be thrown; "parts" is nullable here.(Äåñıÿÿÿÿ8·ğÄŞÃ.
+A
+java:S1659ƒ"#Declare "price" on a separate line.(ú•â8Õ´¿ÜÃ.
+p	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÂüÿÿÿÿ8Õ´¿ÜÃ.
+a
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(¼›Ÿ´ùÿÿÿÿ8³¨ˆİÃ.
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(ÆÒO8ÄØ¶ÕÃ.

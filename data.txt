@@ -1,0 +1,189 @@
+{
+    "components": [
+        {
+            "componentName": "Wheel",
+            "parts": [
+                {
+                    "name": "Tube",
+                    "partsPrices": [
+                        {
+                            "fromDate": "08-2010",
+                            "toDate": "08-2019",
+                            "price": 100
+                        }
+                    ]
+                },
+                {
+                    "name": "Tyre",
+                    "partsPrices": [
+                        {
+                            "fromDate": "08-2019",
+                            "toDate": "08-2020",
+                            "price": 105
+                        }
+                    ]
+                },
+                {
+                    "name": "Tubeless Tyre",
+                    "partsPrices": [
+                        {
+                            "fromDate": "08-2019",
+                            "toDate": "08-2020",
+                            "price": 200
+                        },
+                        {
+                            "fromDate": "01-2020",
+                            "toDate": "08-2020",
+                            "price": 300
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "componentName": "Frame",
+            "parts": [
+                {
+                    "name": "Triangle",
+                    "partsPrices": [
+                        {
+                            "fromDate": "08-2020",
+                            "toDate": "08-2020",
+                            "price": 200
+                        }
+                    ]
+                },
+                {
+                    "name": "Steel",
+                    "partsPrices": [
+                        {
+                            "fromDate": "08-2019",
+                            "toDate": "08-2020",
+                            "price": 500
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "componentName": "Handle",
+            "parts": [
+                {
+                    "name": "Breaks",
+                    "partsPrices": [
+                        {
+                            "fromDate": "08-2019",
+                            "toDate": "08-2020",
+                            "price": 50
+                        }
+                    ]
+                },
+                {
+                    "name": "Ring",
+                    "partsPrices": [
+                        {
+                            "fromDate": "08-2019",
+                            "toDate": "08-2020",
+                            "price": 40
+                        }
+                    ]
+                },
+                {
+                    "name": "Light",
+                    "partsPrices": [
+                        {
+                            "fromDate": "01-2019",
+                            "toDate": "08-2019",
+                            "price": 40
+                        },
+                        {
+                            "fromDate": "01-2020",
+                            "toDate": "08-2020",
+                            "price": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "componentName": "Seat",
+            "parts": [
+                {
+                    "name": "For Man",
+                    "partsPrices": [
+                        {
+                            "fromDate": "08-2019",
+                            "toDate": "08-2020",
+                            "price": 50
+                        }
+                    ]
+                },
+                {
+                    "name": "For Woman",
+                    "partsPrices": [
+                        {
+                            "fromDate": "08-2019",
+                            "toDate": "08-2020",
+                            "price": 40
+                        }
+                    ]
+                },
+                {
+                    "name": "For Child",
+                    "partsPrices": [
+                        {
+                            "fromDate": "01-2019",
+                            "toDate": "08-2019",
+                            "price": 40
+                        },
+                        {
+                            "fromDate": "01-2020",
+                            "toDate": "08-2020",
+                            "price": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "componentName": "Chain Assembly",
+            "parts": [
+                {
+                    "name": "Chain",
+                    "partsPrices": [
+                        {
+                            "fromDate": "08-2019",
+                            "toDate": "08-2020",
+                            "price": 50
+                        }
+                    ]
+                },
+                {
+                    "name": "Gear",
+                    "partsPrices": [
+                        {
+                            "fromDate": "08-2019",
+                            "toDate": "08-2020",
+                            "price": 40
+                        }
+                    ]
+                },
+                {
+                    "name": "Pedal",
+                    "partsPrices": [
+                        {
+                            "fromDate": "01-2019",
+                            "toDate": "08-2019",
+                            "price": 40
+                        },
+                        {
+                            "fromDate": "01-2020",
+                            "toDate": "08-2020",
+                            "price": 100
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
